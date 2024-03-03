@@ -1,0 +1,75 @@
+{"match logs": [
+    {
+        "name": "My Matches",
+        "matches": [
+            {
+                "doubles": false,
+                "players": [
+                    {"name": "Ethan"},
+                    {"name": "Brayden"}
+                ],
+                "games": [
+                    {
+                        "notes": "Game 1",
+                        "score2": 21,
+                        "score1": 0
+                    },
+                    {
+                        "notes": "Game 2",
+                        "score2": 21,
+                        "score1": 0
+                    }
+                ],
+                "event": "Singles"
+            },
+            {
+                "doubles": true,
+                "players": [
+                    {"name": "Ethan and Brayden"},
+                    {"name": "Grace and Emma"}
+                ],
+                "games": [
+                    {
+                        "notes": "",
+                        "score2": 0,
+                        "score1": 21
+                    },
+                    {
+                        "notes": "",
+                        "score2": 0,
+                        "score1": 21
+                    }
+                ],
+                "event": "Doubles"
+            }
+        ]
+    },
+    {
+        "name": "Other Matches",
+        "matches": [{
+            "doubles": false,
+            "players": [
+                {"name": "Kento Momota"},
+                {"name": "Loh Kean Yew"}
+            ],
+            "games": [
+                {
+                    "notes": "",
+                    "score2": 21,
+                    "score1": 18
+                },
+                {
+                    "notes": "",
+                    "score2": 24,
+                    "score1": 26
+                },
+                {
+                    "notes": "",
+                    "score2": 19,
+                    "score1": 21
+                }
+            ],
+            "event": "Men's Singles"
+        }]
+    }
+]}
